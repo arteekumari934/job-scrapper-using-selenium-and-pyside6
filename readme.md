@@ -1,6 +1,7 @@
 
+![Capture1](https://github.com/user-attachments/assets/59d29e86-a0ba-4d5c-a113-07833e55bb9f)
 
-![Capture](https://github.com/user-attachments/assets/8086ea37-6313-49a1-b1a7-f64842f1560f)
+
 
 
 # Job Scraper - Naukri
