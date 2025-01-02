@@ -1,3 +1,8 @@
+
+
+![Capture](https://github.com/user-attachments/assets/8086ea37-6313-49a1-b1a7-f64842f1560f)
+
+
 # Job Scraper - Naukri
 
 This project is a **desktop application** built with Python and PySide6 for scraping job postings from **Naukri.com**. It allows users to search for jobs based on location, experience, and skills, and displays the results in a user-friendly table.
